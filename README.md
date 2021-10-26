@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Motta D.</h1>
 <h3 align="center">A Full Stack dev from Colombia, "you see problems, i see solutions".</h3>
 
-- 💬 Ask me about **react,redux, nodejs**
+- 💬 Ask me about **Front-end && Back-end**
 
 - 📫 How to reach me **alejandromotta808@gmail.com**
 
